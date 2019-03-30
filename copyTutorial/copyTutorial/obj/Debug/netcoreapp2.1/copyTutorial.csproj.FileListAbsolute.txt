@@ -1,0 +1,14 @@
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\obj\Debug\netcoreapp2.1\copyTutorial.csprojAssemblyReference.cache
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\obj\Debug\netcoreapp2.1\copyTutorial.csproj.CoreCompileInputs.cache
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\obj\Debug\netcoreapp2.1\copyTutorial.RazorAssemblyInfo.cache
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\obj\Debug\netcoreapp2.1\copyTutorial.RazorAssemblyInfo.cs
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\obj\Debug\netcoreapp2.1\copyTutorial.AssemblyInfoInputs.cache
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\obj\Debug\netcoreapp2.1\copyTutorial.AssemblyInfo.cs
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\bin\Debug\netcoreapp2.1\copyTutorial.deps.json
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\bin\Debug\netcoreapp2.1\copyTutorial.runtimeconfig.json
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\bin\Debug\netcoreapp2.1\copyTutorial.runtimeconfig.dev.json
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\bin\Debug\netcoreapp2.1\copyTutorial.dll
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\bin\Debug\netcoreapp2.1\copyTutorial.pdb
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\obj\Debug\netcoreapp2.1\copyTutorial.RazorTargetAssemblyInfo.cache
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\obj\Debug\netcoreapp2.1\copyTutorial.dll
+C:\Users\zeele\source\repos\copyTutorial\copyTutorial\obj\Debug\netcoreapp2.1\copyTutorial.pdb
